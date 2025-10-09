@@ -7,7 +7,7 @@
   "play_store_version": "1.0.1+2",
   "app_store_version": "2.0.0",
   "microsoft_store_version": null,
-  "force_update_play_store": true,
+  "force_update_play_store": false,
   "force_update_app_store": false,
   "is_pause_play_store": false,
   "is_pause_app_store": false,
