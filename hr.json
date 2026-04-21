@@ -2,9 +2,9 @@
     "success": true,
     "message": "The request is ok",
     "data": {
-        "app_name": "GratDoc",
+        "app_name": "HR",
         "package_name": "com.macroHealthPlus.mhpHR",
-        "play_store_version": "1.0.2+3 ",
+        "play_store_version": "1.0.3+4",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": true,
