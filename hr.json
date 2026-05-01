@@ -4,7 +4,7 @@
     "data": {
         "app_name": "HR",
         "package_name": "com.macroHealthPlus.mhpHR",
-        "play_store_version": "1.0.4+5",
+        "play_store_version": "1.0.6+7",
         "app_store_version": "1.0.0",
         "microsoft_store_version": "1.0.0+1",
         "force_update": true,
