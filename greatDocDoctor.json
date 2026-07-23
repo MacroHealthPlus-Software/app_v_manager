@@ -4,7 +4,7 @@
     "data": {
         "app_name": "GratDoc",
         "package_name": "com.macroHealthPlus.greatDoc",
-        "play_store_version": "1.1.5+26",
+        "play_store_version": "1.1.6+27",
         "app_store_version": "1.0.9",
         "microsoft_store_version": "1.0.0+1",
         "force_update": true,
