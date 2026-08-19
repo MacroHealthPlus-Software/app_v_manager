@@ -2,9 +2,9 @@
     "success": true,
     "message": "The request is ok",
     "data":{
-  "app_name": "Aura Health Care",
+  "app_name": "MHP GlucoTrack: Diabetes",
   "package_name": "com.macrohealthplus.mhpGlucoTrack",
-  "play_store_version": "1.0.0+1",
+  "play_store_version": "1.0.1+2",
   "app_store_version": "2.0.0",
   "microsoft_store_version": null,
   "force_update_play_store": false,
