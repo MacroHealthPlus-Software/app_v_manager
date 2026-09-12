@@ -20,7 +20,6 @@
   "updated_at": "2025-09-16T09:00:00Z",
   "created_by": "admin",
   "updated_by": "admin",
-  "update_message": "Minor Issue Fix "
-
+"update_message": "What's New in MHP GlucoTrack\n\n• Family Members: Add, edit, delete, and switch between family profiles.\n• Glucose readings, Dashboard, Reports, and Add Reading now work per selected member.\n• Glucose Trends: Improved mmol/L & mg/dL unit support, scaling, and labels.\n• Learn: New diabetes-focused content covering nutrition, wellness, medication, activity, safety, and more.\n• Existing personal data remains safe and unchanged.\n• Added English & Bengali support for Family Members."
 }
 }
