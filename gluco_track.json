@@ -7,7 +7,7 @@
     "package_name": "com.macrohealthplus.mhpGlucoTrack",
     "ios_bundle_id": "com.macrohealthplus.mhpGlucoTrackIOS",
 
-    "play_store_version": "1.0.4+5",
+    "play_store_version": "1.0.5+6",
     "app_store_version": "1.0.3",
 
     "microsoft_store_version": null,
