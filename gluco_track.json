@@ -31,6 +31,5 @@
 
     "created_by": "admin",
     "updated_by": "admin",
-
-  "update_message": "What's New in MHP GlucoTrack\n• Glucose targets now fit people with diabetes: 4.4–7.2 mmol/L before meals and under 10.0 mmol/L after meals. Dashboard, Reports and charts use the new range.\n• Search: New search button on the home screen to find any feature quickly (English & Bengali).\n• BMI: Now shows your category and a healthy weight range for your height.\n• Medicine reminders: Fixed. Reminders now arrive at the times you set. Please allow \"Alarms & reminders\" if Android asks.\n• Existing personal data remains safe and unchanged."
+"update_message": "What's New in MHP GlucoTrack\n• Glucose targets now fit people with diabetes: 4.4–7.2 mmol/L before meals, under 10.0 mmol/L after meals.\n• Search: New search button on the home screen (English & Bengali).\n• Waist-to-hip ratio: Optional waist and hip entry in the Weight Tracker.\n• BMI: Now shows your category and a healthy weight range.\n• Medicine reminders: Fixed. They now arrive on time in your local time zone. Allow \"Alarms & reminders\" if Android asks.\n• Existing personal data remains safe and unchanged."
   }}
