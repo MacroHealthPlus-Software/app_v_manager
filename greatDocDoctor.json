@@ -17,6 +17,7 @@
         "created_at": "2025-02-03T17:42:59.201130+06:00",
         "updated_at": "2025-02-03T17:42:59.201130+06:00",
         "created_by": "mhp.mhp@gmail.com",
+        "update_message": "Added appointment notes, editable walk-in patient details, booking status badges, automatic slot refresh, crash fixes, and performance improvements. ",
         "updated_by": null
     }
 }
