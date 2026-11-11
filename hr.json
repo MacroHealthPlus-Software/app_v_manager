@@ -17,7 +17,7 @@
         "created_at": "2025-02-03T17:42:59.201130+06:00",
         "updated_at": "2025-02-03T17:42:59.201130+06:00",
         "created_by": "mhp.mhp@gmail.com",
-          "update_message": "Fixed screen lock not working with the app open, plus attendance correction and leave calendar bugs.",
+          "update_message": "Introducing the HR Admin panel with branch-wise data, PDF reports, Benefits and Alternative Work Day modules, plus a refreshed, more compact design and simpler forms.",
         "updated_by": null
     }
 }
